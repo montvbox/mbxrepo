@@ -1,2 +1,2 @@
 # mbxrepo
-Montvbox repository
+Montvbox repo
