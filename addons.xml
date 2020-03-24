@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="montvbox.addons.repo" name="MonTVBox Repo" version="1.0.2" provider-name="MonTVBox Team">
+    <extension point="xbmc.addon.repository" name="MonTVBox Repo">
+        <dir>
+            <info compressed="false">https://www.montvbox.com/mbxrepo/addons.xml</info>
+            <checksum>https://www.montvbox.com/mbxrepo/addons.xml.md5</checksum>
+            <datadir zip="true">https://www.montvbox.com/mbxrepo/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>MonTVBox add-on repository</summary>
+        <description>MonTVBox add-ons are for mongolian iptv and medias in internet</description>
+        <disclaimer></disclaimer>
+        <platform>android android-aarch64</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="script.video.montvbox-looktv" name="MontvBox-Looktv" version="1.0.9" provider-name="MonTVBox Team">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" version="2.7.0"/>
+		<import addon="script.module.simplecache" version="1.0.11" />
+		<!-- <import addon="script.module.inputstreamhelper" version="0.3.3" /> -->
+	</requires>
+	<extension point="xbmc.python.script" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>android android-aarch64</platform>
+		<language>en</language>
+		<license>The MIT License (MIT)</license>
+		<summary lang="en_GB">Mongolian TV Box for Looktv</summary>
+		<description lang="en_GB">
+			This addon provides access to streams of Mongolian TV (live channels and series).
+			It requires active registration depending on the TV provider.
+		</description>
+		<disclaimer lang="en_GB">Requires to have an account on looktv.mn.</disclaimer>
+		<website>https://www.montvbox.com/</website>
+		<email>contact@montvbox.com</email>
+		<news>v1.0.5 horizontal layout
+        v1.0.2 Checking auto update
+        + v1.0.1 created by dev@montvbox.com
+        </news>
+	</extension>
+</addon>
+</addons>
