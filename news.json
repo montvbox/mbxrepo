@@ -1,7 +1,7 @@
 {
     "id": "AmseeUYfPiUL5CC",
     "timestamp": 1626211172,
-    "type": "message",
-    "addon_id": "",
+    "type": "addon_release",
+    "addon_id": "tester.tester",
     "message": "Таны МонТВБокс амжилттай шинэчилэгдлээ.\n Аdd-ons цэснээс цэнхэр логотой MontvBox сонгож ажиллуулна уу."
 }
