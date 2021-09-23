@@ -1,7 +1,7 @@
 {
     "plugin.video.montvbox.looktv": {
-        "commit": "a194ba5de9bffda9773ef98269b66f875d8dee45",
-        "version": "0.1.5"
+        "commit": "6d9529143be9c143294ec2d906a5e71073ba0b2f",
+        "version": "0.1.6"
     },
     "script.module.montvbox": {
         "commit": "64510b8814eb9d874a7e46f572a864a47f260c19",

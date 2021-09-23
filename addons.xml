@@ -70,7 +70,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.montvbox.looktv" name="Looktv on Montvbox" provider-name="Montvbox" version="0.1.5">
+<addon id="plugin.video.montvbox.looktv" name="Looktv on Montvbox" provider-name="Montvbox" version="0.1.6">
     <requires>
         <import addon="script.module.montvbox"/>
     </requires>
