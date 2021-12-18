@@ -1,7 +1,7 @@
 {
-    "id": "AmseeUYfPiULCCC",
-    "timestamp": 1628177837,
-    "type": "message",
-    "addon_id": "plugin.video.montvbox.looktv",
-    "message": "Таны МонТВБокс амжилттай шинэчилэгдлээ.\n Аdd-ons цэснээс цэнхэр логотой MontvBox сонгож ажиллуулна уу."
+    "id": "AmseeUYfPiULDDD",
+    "timestamp": 1639838304,
+    "type": "addon_release",
+    "addon_id": "plugin.video.montvbox.voo",
+    "message": "Бид танд шинээр [B]Voo on MontvBox[/B] Addon бэлдэж гаргалаа.\n YES товч дээр дарж суулгаад Add-Ons цэснээс сонгож үзнэ үү.\n Холбогдох алдаа гарвал info@montvbox.com хаяганд хандана уу."
 }
