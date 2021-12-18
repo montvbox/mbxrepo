@@ -58,6 +58,7 @@
     <extension point="xbmc.python.pluginsource" library="default.py" />
     <extension point="xbmc.python.module" library="resources/modules" />
     <extension point="xbmc.addon.metadata">
+        <platform>android android-aarch64</platform>
         <description lang="en">Common code required by all Montvbox add-ons</description>
         <reuselanguageinvoker>true</reuselanguageinvoker>
         <license></license>
@@ -78,6 +79,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
+        <platform>android android-aarch64</platform>
         <description lang="en">Watch Mongolian TV on Montvbox </description>
         <reuselanguageinvoker>true</reuselanguageinvoker>
         <license></license>
@@ -98,6 +100,7 @@
         <provides>video</provides>
     </extension>
     <extension point="xbmc.addon.metadata">
+        <platform>android android-aarch64</platform>
         <description lang="en">Watch Voo TV on Montvbox </description>
         <reuselanguageinvoker>true</reuselanguageinvoker>
         <license></license>
