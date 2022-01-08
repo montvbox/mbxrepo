@@ -1,11 +1,15 @@
 {
     "plugin.video.montvbox.voo": {
-        "commit": "c889c797f27455b2f824bac6ec292c000e59d8ee",
-        "version": "0.1.0"
+        "commit": "12ee795245b2e9a2117f9de064ae9620141dd3d3",
+        "version": "0.1.1"
     },
     "plugin.video.montvbox.looktv": {
-        "commit": "6d9529143be9c143294ec2d906a5e71073ba0b2f",
-        "version": "0.1.6"
+        "commit": "12ee795245b2e9a2117f9de064ae9620141dd3d3",
+        "version": "0.1.7"
+    },
+    "plugin.audio.montvbox.radio": {
+        "commit": "12ee795245b2e9a2117f9de064ae9620141dd3d3",
+        "version": "0.1.0"
     },
     "script.module.montvbox": {
         "commit": "64510b8814eb9d874a7e46f572a864a47f260c19",
