@@ -1,7 +1,11 @@
 {
+    "plugin.video.montvbox.ori": {
+        "commit": "f20e95d87f356d7572b1f5c6d998b84e17c2786a",
+        "version": "0.1.0"
+    },
     "plugin.video.montvbox.voo": {
-        "commit": "12ee795245b2e9a2117f9de064ae9620141dd3d3",
-        "version": "0.1.1"
+        "commit": "f4332e51d649555cf2fb31641c111290975c6330",
+        "version": "0.1.2"
     },
     "plugin.video.montvbox.looktv": {
         "commit": "12ee795245b2e9a2117f9de064ae9620141dd3d3",

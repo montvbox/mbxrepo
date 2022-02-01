@@ -62,7 +62,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.montvbox.voo" name="Voo on Montvbox" provider-name="Montvbox" version="0.1.1">
+<addon id="plugin.video.montvbox.voo" name="Voo on Montvbox" provider-name="Montvbox" version="0.1.2">
     <requires>
         <import addon="script.module.montvbox"/>
     </requires>
@@ -76,7 +76,28 @@
         <license></license>
         <language></language>
         <website></website>
-        <news>Initial release</news>
+        <news>Updated for time</news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+<addon id="plugin.video.montvbox.ori" name="ORI on Montvbox" provider-name="Montvbox" version="0.1.0">
+    <requires>
+        <import addon="script.module.montvbox"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py" provides="video">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>android android-aarch64</platform>
+        <description lang="en">Watch ORI TV on Montvbox. Subscription need </description>
+        <reuselanguageinvoker>true</reuselanguageinvoker>
+        <license></license>
+        <language></language>
+        <website></website>
+        <news>Initial Release</news>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
