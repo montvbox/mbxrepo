@@ -1,7 +1,7 @@
 {
     "plugin.video.montvbox.ori": {
-        "commit": "f20e95d87f356d7572b1f5c6d998b84e17c2786a",
-        "version": "0.1.0"
+        "commit": "d7cd15645bfacbf33d4a2401922854bb6a9ff9c8",
+        "version": "0.1.1"
     },
     "plugin.video.montvbox.voo": {
         "commit": "f4332e51d649555cf2fb31641c111290975c6330",
