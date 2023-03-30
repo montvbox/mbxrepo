@@ -83,7 +83,7 @@
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.montvbox.ori" name="ORI on Montvbox" provider-name="Montvbox" version="0.1.1">
+<addon id="plugin.video.montvbox.ori" name="ORI on Montvbox" provider-name="Montvbox" version="0.1.2">
     <requires>
         <import addon="script.module.montvbox"/>
     </requires>

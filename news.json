@@ -1,7 +1,8 @@
 {
-    "id": "aMSFFKYfCIKLFKK",
-    "timestamp": 1654202121,
+
+    "id": "de9257f66de3057",
+    "timestamp": 1680178468,
     "type": "message",
-    "addon_id": "plugin.video.montvbox.voo",
-    "message": "Бид VOO on Montvbox-д гарсан алдааг зассанaa танд баяртайгаар дуулгая.\n Add-ons цэснээс сонгож үзнэ үү!"
+    "addon_id": "plugin.video.montvbox.ori",
+    "message": "ORI on Montvbox-д гарсан алдаа засагдсан.\n Add-ons цэснээс сонгож үзнэ үү!"
 }
